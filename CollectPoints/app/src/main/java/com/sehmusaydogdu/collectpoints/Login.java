@@ -9,7 +9,7 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 public class Login extends Activity {
-//Login Page
+
     EditText editUserName,editPassword;
     SharedPreferences pref;
     private void init(){
